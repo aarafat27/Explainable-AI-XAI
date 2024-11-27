@@ -27,22 +27,13 @@ Another widely used technique is SHAP (Shapley Additive Explanations). SHAP assi
 
 # SHAP (Shapley Additive Explanations)
 **Pseudocode:**
- 1: procedure SHAP(f, x, F)
- 2:     φ ← [0] for all features in F
- 3:     for each feature i in F do
- 4:         for each subset S ⊆ (F \ {i}) do
- 5:             Δ ← f(S ∪ {i}) - f(S)
- 6:             weight ← |S| / (|F| choose |S|)
- 7:             φ[i] ← φ[i] + weight * Δ
- 8:         end for
- 9:     end for
-10:    return φ
-11: end procedure
+<img width="556" alt="220331" src="https://github.com/user-attachments/assets/dfa0612c-370c-43af-806b-9fe7aab47052">
+
 
 ![download](https://github.com/user-attachments/assets/f821dcaf-e8a6-48d2-8920-b7b65dcdd9b3)
 
 # LIME vs. SHAP
 ![vs](https://github.com/user-attachments/assets/6dc8808d-796d-49d5-998b-a37244e90fe5)
 
-# 📚 Read More About PINNs at: 
+# 📚 Read More About Explainable AI (XAI) at: 
 🌐 https://medium.com/tech-spectrum/what-is-explainable-ai-xai-how-does-it-work-e5801d5c8da8
