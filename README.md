@@ -26,7 +26,9 @@ For complex models like deep neural networks, post-hoc explainability methods ar
 Another widely used technique is SHAP (Shapley Additive Explanations). SHAP assigns each feature a contribution score based on game-theoretic principles, offering insights into how each input influenced the prediction. For example, in a loan approval system, SHAP values can reveal whether an applicant’s income, credit score, or other factors led to the decision.
 
 # SHAP (Shapley Additive Explanations)
+SHAP explains a model’s predictions by assigning each feature a contribution value based on cooperative game theory.
 **Pseudocode:**
+
 <img width="556" alt="220331" src="https://github.com/user-attachments/assets/dfa0612c-370c-43af-806b-9fe7aab47052">
 
 
