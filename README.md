@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/74dadd24-b951-4dc6-a869-44597a6ce89b)# 🚀 Explainable AI (XAI)
+# 🚀 Explainable AI (XAI)
 Explainable AI (XAI) refers to a set of techniques, methods, and frameworks aimed at making the decision-making processes of artificial intelligence (AI) systems transparent, interpretable, and understandable to humans. Unlike traditional AI models, which often operate as “black boxes,” XAI provides insights into how and why AI systems make specific predictions or decisions. This is achieved through visualizations, feature attributions, or other forms of explanation that highlight the relationships between inputs and outputs in the model.
 
 ![img](https://github.com/user-attachments/assets/bfb21683-41d9-40b4-9bd4-1c0327ea56a9)
