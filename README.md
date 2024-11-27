@@ -27,11 +27,12 @@ Another widely used technique is SHAP (Shapley Additive Explanations). SHAP assi
 
 # SHAP (Shapley Additive Explanations)
 SHAP explains a model’s predictions by assigning each feature a contribution value based on cooperative game theory.
+
 **Pseudocode:**
 
 <img width="556" alt="220331" src="https://github.com/user-attachments/assets/dfa0612c-370c-43af-806b-9fe7aab47052">
 
-
+#
 ![download](https://github.com/user-attachments/assets/f821dcaf-e8a6-48d2-8920-b7b65dcdd9b3)
 
 # LIME vs. SHAP
